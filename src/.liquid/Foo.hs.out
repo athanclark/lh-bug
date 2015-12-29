@@ -1,0 +1,4 @@
+RESULT: ERROR
+
+ src/Foo.hs:7:13: Error: Cannot promote Haskell function hmSize to logic
+     Measure Functions should have a case at top level

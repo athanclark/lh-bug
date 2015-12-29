@@ -1,0 +1,1 @@
+{"status":"error","types":{},"errors":[{"start":{"line":7,"column":13},"stop":{"line":7,"column":13},"message":"src/Foo.hs:7:13: Error: Cannot promote Haskell function hmSize to logic\n    Measure Functions should have a case at top level"}]}
